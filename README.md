@@ -15,7 +15,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+CSHTML   49 mins         ████████████▓░░░░░░░░░░░░   50.82 %
+Other    25 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.78 %
 ```
 
 <!--END_SECTION:waka-->
