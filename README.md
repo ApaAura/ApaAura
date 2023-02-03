@@ -15,10 +15,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML         6 hrs 33 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
-JavaScript   6 hrs 19 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.03 %
-JSON         5 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
-Other        5 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
+HTML         5 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.51 %
+Other        5 hrs 43 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.92 %
 ```
 
 <!--END_SECTION:waka-->
