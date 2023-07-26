@@ -5,11 +5,6 @@
 - 🤔 I’m looking for new oportunities
 
 
-### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ApaAura.ApaAura)
-
-
 ### Coding Stats
 
 <!--START_SECTION:waka-->
