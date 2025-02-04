@@ -9,7 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML         3 hrs 19 mins   ████████████░░░░░░░░░░░░░   48.07 %
+TypeScript   3 hrs 11 mins   ███████████▓░░░░░░░░░░░░░   46.12 %
+SCSS         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
