@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently leaning at @UTM
 - ⚡ I’m looking for new oportunities
+- tech content creator instagram: aurica_ap 
 
 
 ### Coding Stats
