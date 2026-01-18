@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently leaning at @UTM
 - ⚡ I’m looking for new oportunities
-- tech content creator instagram: aurica_ap 
+- tech content creator instagram: [aurica_ap ](https://www.instagram.com/aurica_ap/)
 
 
 ### Coding Stats
